@@ -3,3 +3,6 @@ This is a change.
 --
 ---
 Now check it again.
+
+
+Now practise commit
